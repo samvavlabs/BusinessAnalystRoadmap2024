@@ -14,15 +14,7 @@
 ### What's New In Python 3.12.0
 https://docs.python.org/release/3.12.0/
 
-## 2. Statistics
-![1_jidbi1--elimaTb3B2HT5w](https://user-images.githubusercontent.com/20041231/211717931-134aaac2-a8fc-445b-93a6-ae241c66ba5b.png)
-
-1. English: 7 Days Statistics Live Session : [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=11unm2hmvOQ&list=PLZoTAELRMXVMgtxAboeAx-D9qbnY94Yay)
-
-2. Statistics in ML(43 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=zRUliXuwJCQ&list=PLZoTAELRMXVMhVyr3Ri9IQ-t5QPBtxzJO)
-
-3. Stats Hindi Playlist: [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=7y3XckjaVOw&list=PLTDARY42LDV6YHSRo669_uDDGmUEmQnDJ)
-4. Chatgpt And Google Bard
+### 2. Statistics
 
 ### 3. EDA - Explorative Data Analysis
 
