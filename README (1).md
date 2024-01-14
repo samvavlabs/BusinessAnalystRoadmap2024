@@ -4,7 +4,7 @@
 
 ![Capture](https://user-images.githubusercontent.com/20041231/211468652-d4316856-0ee5-44ea-9dd9-538beef38180.JPG)
 
-## 1. Python Programming Language
+## 1. Python Programming Language (1 month)
 #### Python:
 
 ### Final Goal Outcome:
@@ -16,14 +16,14 @@ https://docs.python.org/release/3.12.0/
 
 ### 2. Statistics
 
-### 3. EDA - Explorative Data Analysis
+### 3. EDA - Explorative Data Analysis (1 month)
 
-### 4. Databases
+### 4. Databases (2 weeks)
 1. Mongodb
 2. Mysql
 3. Apache Cassandra Database
 
-## Business Intelligence Tools
+## Business Intelligence Tools (1.5 months)
 
 ![maxresdefaultreduced](https://user-images.githubusercontent.com/20041231/211717386-39f75daf-0c1e-4295-8e00-657578f397a1.jpg)
 
@@ -38,4 +38,10 @@ Amazing Article on ETL: [![YouTube](https://img.shields.io/badge/documentaion-li
 ![Capture](https://user-images.githubusercontent.com/20041231/211473712-f8737fd4-0622-49de-b751-706322813b31.JPG)
 
 Top ETL Tools: [![YouTube](https://img.shields.io/badge/documentaion-link-green)](https://www.integrate.io/blog/top-7-etl-tools/)
+
+## Case Study
+
+## Projects
+
+## Internship
 
